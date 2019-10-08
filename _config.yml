@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Zachary Nasipak
+description: Research website
+github:
+  is_project_page: false
